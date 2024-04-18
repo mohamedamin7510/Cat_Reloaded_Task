@@ -1,0 +1,14 @@
+D:\data-base\oop_finished\oop_finished\bin\Debug\net8.0\oop_finished.exe
+D:\data-base\oop_finished\oop_finished\bin\Debug\net8.0\oop_finished.deps.json
+D:\data-base\oop_finished\oop_finished\bin\Debug\net8.0\oop_finished.runtimeconfig.json
+D:\data-base\oop_finished\oop_finished\bin\Debug\net8.0\oop_finished.dll
+D:\data-base\oop_finished\oop_finished\bin\Debug\net8.0\oop_finished.pdb
+D:\data-base\oop_finished\oop_finished\obj\Debug\net8.0\oop_finished.GeneratedMSBuildEditorConfig.editorconfig
+D:\data-base\oop_finished\oop_finished\obj\Debug\net8.0\oop_finished.AssemblyInfoInputs.cache
+D:\data-base\oop_finished\oop_finished\obj\Debug\net8.0\oop_finished.AssemblyInfo.cs
+D:\data-base\oop_finished\oop_finished\obj\Debug\net8.0\oop_finished.csproj.CoreCompileInputs.cache
+D:\data-base\oop_finished\oop_finished\obj\Debug\net8.0\oop_finished.dll
+D:\data-base\oop_finished\oop_finished\obj\Debug\net8.0\refint\oop_finished.dll
+D:\data-base\oop_finished\oop_finished\obj\Debug\net8.0\oop_finished.pdb
+D:\data-base\oop_finished\oop_finished\obj\Debug\net8.0\oop_finished.genruntimeconfig.cache
+D:\data-base\oop_finished\oop_finished\obj\Debug\net8.0\ref\oop_finished.dll
